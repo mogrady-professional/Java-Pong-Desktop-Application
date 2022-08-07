@@ -1,6 +1,10 @@
-<img src="images/medicine-ball.png" width="75" align="right" style="background-color: #fff; border-radius: 50%"  alt="Java Logo"></a>
+<img src="images/medicine-ball.png" width="75" align="right" style="background-color: #fff; border-radius: 50%; margin-bottom: 10px"  alt="Java Logo"></a>
 
 # Java Pong Desktop Application
+
+<p align="center" >
+ <img src="images/pong.png"  height="auto">
+</p>
 
 # Table of Contents
 
